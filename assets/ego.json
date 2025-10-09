@@ -1,0 +1,709 @@
+{
+  "20101": {
+    "id": "20101",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%B9%8C%E7%9E%B0%E5%88%80",
+    "cnTitle": "乌瞰刀",
+    "twTitle": "烏瞰刀"
+  },
+  "20102": {
+    "id": "20102",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BB%88%E6%9C%AB%E7%81%AB%E6%9F%B4%E4%B9%8B%E5%85%89-%E6%9D%8E%E7%AE%B1",
+    "cnTitle": "终末火柴之光",
+    "twTitle": "第四根火柴"
+  },
+  "20103": {
+    "id": "20103",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%A5%88%E6%84%BF%E7%9F%B3-%E6%9D%8E%E7%AE%B1",
+    "cnTitle": "祈愿石",
+    "twTitle": "祈願石"
+  },
+  "20104": {
+    "id": "20104",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%AC%A1%E5%85%83%E6%92%95%E8%A3%82%E8%80%85-%E6%9D%8E%E7%AE%B1",
+    "cnTitle": "次元撕裂者",
+    "twTitle": "次元撕裂者"
+  },
+  "20105": {
+    "id": "20105",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%8B%90%E9%9B%A8-%E6%9D%8E%E7%AE%B1",
+    "cnTitle": "狐雨",
+    "twTitle": "狐雨"
+  },
+  "20106": {
+    "id": "20106",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%BE%80%E6%98%94-%E6%9D%8E%E7%AE%B1",
+    "cnTitle": "往昔",
+    "twTitle": "往昔"
+  },
+  "20107": {
+    "id": "20107",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%87%B6%E5%BC%B9-%E6%9D%8E%E7%AE%B1",
+    "cnTitle": "凶弹",
+    "twTitle": "凶彈"
+  },
+  "20201": {
+    "id": "20201",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%A1%A8%E8%B1%A1%E6%94%BE%E5%B0%84%E5%99%A8",
+    "cnTitle": "表象放射器",
+    "twTitle": "表象放射器"
+  },
+  "20202": {
+    "id": "20202",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%B6%B2%E5%9B%8A-%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+    "cnTitle": "液囊",
+    "twTitle": "液囊"
+  },
+  "20203": {
+    "id": "20203",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%AF%85%E5%92%92%E4%B9%8B%E9%92%89-%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+    "cnTitle": "诅咒之钉",
+    "twTitle": "詛咒之釘"
+  },
+  "20204": {
+    "id": "20204",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%94%B5%E7%BA%BF%E6%9D%86-%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+    "cnTitle": "电线杆",
+    "twTitle": "電線桿"
+  },
+  "20205": {
+    "id": "20205",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/9%E7%AB%A02%E8%8A%82-%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+    "cnTitle": "9章2节",
+    "twTitle": "9章2節"
+  },
+  "20206": {
+    "id": "20206",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%B0%B8%E6%81%92-%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+    "cnTitle": "永恒",
+    "twTitle": "永恆"
+  },
+  "20207": {
+    "id": "20207",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%A5%97%E7%B4%A2-%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+    "cnTitle": "套索",
+    "twTitle": "套索"
+  },
+  "20208": {
+    "id": "20208",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%83%B8%E7%97%9B-%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+    "cnTitle": "胸痛",
+    "twTitle": "胸痛"
+  },
+  "20301": {
+    "id": "20301",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%A1%91%E4%B8%98%E4%B9%8B%E8%A1%80",
+    "cnTitle": "桑丘之血",
+    "twTitle": "桑丘之血"
+  },
+  "20302": {
+    "id": "20302",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%B6%B2%E5%9B%8A-%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7",
+    "cnTitle": "液囊",
+    "twTitle": "液囊"
+  },
+  "20303": {
+    "id": "20303",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%94%B5%E7%BA%BF%E6%9D%86-%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7",
+    "cnTitle": "电线杆",
+    "twTitle": "電線桿"
+  },
+  "20304": {
+    "id": "20304",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%B8%80%E7%94%9F%E7%82%96%E8%8F%9C-%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7",
+    "cnTitle": "一生炖菜",
+    "twTitle": "一生燉菜"
+  },
+  "20305": {
+    "id": "20305",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%A5%88%E6%84%BF%E7%9F%B3-%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7",
+    "cnTitle": "祈愿石",
+    "twTitle": "祈願石"
+  },
+  "20306": {
+    "id": "20306",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%94%B5%E5%AD%90%E5%93%80%E9%B8%A3-%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7",
+    "cnTitle": "电子哀鸣",
+    "twTitle": "電子哀鳴"
+  },
+  "20307": {
+    "id": "20307",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%B8%B4%E6%9C%9B-%E8%9C%9C%E5%8D%A1%E6%8B%89-%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7",
+    "cnTitle": "渴望-蜜卡拉",
+    "twTitle": "渴望-蜜卡拉"
+  },
+  "20308": {
+    "id": "20308",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%9C%B1%E7%AC%A6-%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7",
+    "cnTitle": "朱符",
+    "twTitle": "朱符"
+  },
+  "20309": {
+    "id": "20309",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%BB%A5%E7%88%B1%E4%B8%8E%E6%86%8E%E4%B9%8B%E5%90%8D-%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7",
+    "cnTitle": "以爱与憎之名",
+    "twTitle": "以愛與憎之名"
+  },
+  "20401": {
+    "id": "20401",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%A3%AE%E7%BD%97%E7%82%8E%E8%B1%A1",
+    "cnTitle": "森罗炎象",
+    "twTitle": "森羅炎象"
+  },
+  "20402": {
+    "id": "20402",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BB%88%E6%9C%AB%E7%81%AB%E6%9F%B4%E4%B9%8B%E5%85%89-%E8%89%AF%E7%A7%80",
+    "cnTitle": "终末火柴之光",
+    "twTitle": "第四根火柴"
+  },
+  "20403": {
+    "id": "20403",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%B5%A4%E7%9E%B3-%E8%89%AF%E7%A7%80",
+    "cnTitle": "赤瞳",
+    "twTitle": "赤瞳"
+  },
+  "20404": {
+    "id": "20404",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%B5%A4%E7%9E%B3%EF%BC%88%E5%BC%80%EF%BC%89-%E8%89%AF%E7%A7%80",
+    "cnTitle": "赤瞳（开）",
+    "twTitle": "赤瞳（開）"
+  },
+  "20405": {
+    "id": "20405",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BE%8E%E5%91%B3%E8%8B%8F%E6%89%93-%E8%89%AF%E7%A7%80",
+    "cnTitle": "美味苏打",
+    "twTitle": "美味蘇打"
+  },
+  "20406": {
+    "id": "20406",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%9B%B2%E7%9B%AE-%E8%89%AF%E7%A7%80",
+    "cnTitle": "盲目",
+    "twTitle": "盲目"
+  },
+  "20407": {
+    "id": "20407",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%BD%BB%E8%94%91%EF%BC%8C%E6%95%AC%E7%95%8F-%E8%89%AF%E7%A7%80",
+    "cnTitle": "轻蔑，敬畏",
+    "twTitle": "輕蔑，敬畏"
+  },
+  "20408": {
+    "id": "20408",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%83%B8%E7%97%9B-%E8%89%AF%E7%A7%80",
+    "cnTitle": "胸痛",
+    "twTitle": "胸痛"
+  },
+  "20501": {
+    "id": "20501",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%BB%96%E4%BA%BA%E4%B9%8B%E9%94%81",
+    "cnTitle": "他人之锁",
+    "twTitle": "他人之鎖"
+  },
+  "20502": {
+    "id": "20502",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%84%B1%E7%BA%BF%E4%B8%80%E5%87%BB-%E9%BB%98%E5%B0%94%E7%B4%A2",
+    "cnTitle": "脱线一击",
+    "twTitle": "脫線一擊"
+  },
+  "20503": {
+    "id": "20503",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%89%A7%E8%A1%8C-%E9%BB%98%E5%B0%94%E7%B4%A2",
+    "cnTitle": "执行",
+    "twTitle": "執行"
+  },
+  "20504": {
+    "id": "20504",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%96%97%E7%89%9B%E6%8A%AB%E9%A3%8E-%E9%BB%98%E5%B0%94%E7%B4%A2",
+    "cnTitle": "斗牛披风",
+    "twTitle": "鬥牛披風"
+  },
+  "20505": {
+    "id": "20505",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%82%94%E6%81%A8-%E9%BB%98%E5%B0%94%E7%B4%A2",
+    "cnTitle": "悔恨",
+    "twTitle": "悔恨"
+  },
+  "20506": {
+    "id": "20506",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%94%B5%E5%AD%90%E5%93%80%E9%B8%A3-%E9%BB%98%E5%B0%94%E7%B4%A2",
+    "cnTitle": "电子哀鸣",
+    "twTitle": "電子哀鳴"
+  },
+  "20507": {
+    "id": "20507",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%B8%B4%E6%9C%9B-%E8%9C%9C%E5%8D%A1%E6%8B%89-%E9%BB%98%E5%B0%94%E7%B4%A2",
+    "cnTitle": "渴望-蜜卡拉",
+    "twTitle": "渴望-蜜卡拉"
+  },
+  "20508": {
+    "id": "20508",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%B0%86%E8%A2%AB%E7%B2%89%E7%A2%8E%E7%9A%84%E8%BF%87%E5%8E%BB-%E9%BB%98%E5%B0%94%E7%B4%A2",
+    "cnTitle": "将被粉碎的过去",
+    "twTitle": "將被粉碎的過去"
+  },
+  "20601": {
+    "id": "20601",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%A4%AA%E8%99%9A%E5%B9%BB%E5%A2%83",
+    "cnTitle": "太虚幻境",
+    "twTitle": "太虛幻境"
+  },
+  "20602": {
+    "id": "20602",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%B2%89%E7%BA%A2%E6%AC%B2%E6%9C%9B-%E9%B8%BF%E7%92%90",
+    "cnTitle": "粉红欲望",
+    "twTitle": "粉紅慾望"
+  },
+  "20603": {
+    "id": "20603",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%AC%A1%E5%85%83%E6%92%95%E8%A3%82%E8%80%85-%E9%B8%BF%E7%92%90",
+    "cnTitle": "次元撕裂者",
+    "twTitle": "次元撕裂者"
+  },
+  "20604": {
+    "id": "20604",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BE%8E%E5%91%B3%E8%8B%8F%E6%89%93-%E9%B8%BF%E7%92%90",
+    "cnTitle": "美味苏打",
+    "twTitle": "美味蘇打"
+  },
+  "20605": {
+    "id": "20605",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%B2%B8%E8%85%BE%E8%85%90%E8%9A%80-%E9%B8%BF%E7%92%90",
+    "cnTitle": "沸腾腐蚀",
+    "twTitle": "沸騰腐蝕"
+  },
+  "20606": {
+    "id": "20606",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%BD%8E%E6%B3%A3-%E9%B8%BF%E7%92%90",
+    "cnTitle": "低泣",
+    "twTitle": "低泣"
+  },
+  "20607": {
+    "id": "20607",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%A5%97%E7%B4%A2-%E9%B8%BF%E7%92%90",
+    "cnTitle": "套索",
+    "twTitle": "套索"
+  },
+  "20608": {
+    "id": "20608",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%B1%A1%E8%A1%80%E6%B3%A3%E6%B3%AA-%E9%B8%BF%E7%92%90",
+    "cnTitle": "污血泣泪",
+    "twTitle": "汙血泣淚"
+  },
+  "20701": {
+    "id": "20701",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%A3%B9%E5%B0%B8%E8%A2%8B",
+    "cnTitle": "裹尸袋",
+    "twTitle": "裹屍袋"
+  },
+  "20702": {
+    "id": "20702",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%94%B5%E7%BA%BF%E6%9D%86-%E5%B8%8C%E6%96%AF%E5%85%8B%E5%88%A9%E5%A4%AB",
+    "cnTitle": "电线杆",
+    "twTitle": "電線桿"
+  },
+  "20703": {
+    "id": "20703",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/AEDD-%E5%B8%8C%E6%96%AF%E5%85%8B%E5%88%A9%E5%A4%AB",
+    "cnTitle": "AEDD",
+    "twTitle": "AEDD"
+  },
+  "20704": {
+    "id": "20704",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%A9%BA%E5%8D%B3%E6%98%AF%E8%89%B2-%E5%B8%8C%E6%96%AF%E5%85%8B%E5%88%A9%E5%A4%AB",
+    "cnTitle": "空即是色",
+    "twTitle": "空即是色"
+  },
+  "20705": {
+    "id": "20705",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%82%B2%E6%83%A8%E5%81%87%E6%97%A5-%E5%B8%8C%E6%96%AF%E5%85%8B%E5%88%A9%E5%A4%AB",
+    "cnTitle": "悲惨假日",
+    "twTitle": "悲慘假日"
+  },
+  "20706": {
+    "id": "20706",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%8B%98%E6%9D%9F-%E5%B8%8C%E6%96%AF%E5%85%8B%E5%88%A9%E5%A4%AB",
+    "cnTitle": "拘束",
+    "twTitle": "拘束"
+  },
+  "20707": {
+    "id": "20707",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%87%B6%E5%BC%B9-%E5%B8%8C%E6%96%AF%E5%85%8B%E5%88%A9%E5%A4%AB",
+    "cnTitle": "凶弹",
+    "twTitle": "凶彈"
+  },
+  "20708": {
+    "id": "20708",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%A4%B1%E8%A1%A1%E6%83%AF%E6%80%A7-%E5%B8%8C%E6%96%AF%E5%85%8B%E5%88%A9%E5%A4%AB",
+    "cnTitle": "失衡惯性",
+    "twTitle": "失衡慣性"
+  },
+  "20801": {
+    "id": "20801",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%8D%95%E9%B2%B8%E5%8F%89",
+    "cnTitle": "捕鲸叉",
+    "twTitle": "捕鯨叉"
+  },
+  "20802": {
+    "id": "20802",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%B2%89%E7%BA%A2%E6%AC%B2%E6%9C%9B-%E4%BB%A5%E5%AE%9E%E7%8E%9B%E5%88%A9",
+    "cnTitle": "粉红欲望",
+    "twTitle": "粉紅慾望"
+  },
+  "20803": {
+    "id": "20803",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BA%A2%E8%89%B3%E7%85%9E-%E4%BB%A5%E5%AE%9E%E7%8E%9B%E5%88%A9",
+    "cnTitle": "红艳煞",
+    "twTitle": "紅艷煞"
+  },
+  "20804": {
+    "id": "20804",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%96%97%E7%89%9B%E6%8A%AB%E9%A3%8E-%E4%BB%A5%E5%AE%9E%E7%8E%9B%E5%88%A9",
+    "cnTitle": "斗牛披风",
+    "twTitle": "鬥牛披風"
+  },
+  "20805": {
+    "id": "20805",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%9B%B2%E7%9B%AE-%E4%BB%A5%E5%AE%9E%E7%8E%9B%E5%88%A9",
+    "cnTitle": "盲目",
+    "twTitle": "盲目"
+  },
+  "20806": {
+    "id": "20806",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BF%85%E6%8C%AF-%E4%BB%A5%E5%AE%9E%E7%8E%9B%E5%88%A9",
+    "cnTitle": "翅振",
+    "twTitle": "翅振"
+  },
+  "20807": {
+    "id": "20807",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%BE%80%E6%98%94-%E4%BB%A5%E5%AE%9E%E7%8E%9B%E5%88%A9",
+    "cnTitle": "往昔",
+    "twTitle": "往昔"
+  },
+  "20808": {
+    "id": "20808",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%9C%A3%E8%AF%9E%E6%A2%A6%E9%AD%87-%E4%BB%A5%E5%AE%9E%E7%8E%9B%E5%88%A9",
+    "cnTitle": "圣诞梦魇",
+    "twTitle": "聖誕夢魘"
+  },
+  "20809": {
+    "id": "20809",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%9D%8D%E8%9B%86%E6%9D%80-%E4%BB%A5%E5%AE%9E%E7%8E%9B%E5%88%A9",
+    "cnTitle": "蝍蛆杀",
+    "twTitle": "蝍蛆煞"
+  },
+  "20901": {
+    "id": "20901",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%A6%86%E6%B0%B4%E9%9A%BE%E6%94%B6",
+    "cnTitle": "覆水难收",
+    "twTitle": "覆水難收"
+  },
+  "20902": {
+    "id": "20902",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BB%88%E6%9C%AB%E7%81%AB%E6%9F%B4%E4%B9%8B%E5%85%89-%E7%BD%97%E4%BD%B3",
+    "cnTitle": "终末火柴之光",
+    "twTitle": "第四根火柴"
+  },
+  "20903": {
+    "id": "20903",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%86%B0%E7%BB%93%E4%B9%8B%E7%88%AA-%E7%BD%97%E4%BD%B3",
+    "cnTitle": "冰结之爪",
+    "twTitle": "冰結之爪"
+  },
+  "20904": {
+    "id": "20904",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%B2%B8%E8%85%BE%E8%85%90%E8%9A%80-%E7%BD%97%E4%BD%B3",
+    "cnTitle": "沸腾腐蚀",
+    "twTitle": "沸騰腐蝕"
+  },
+  "20905": {
+    "id": "20905",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%89%A7%E8%A1%8C-%E7%BD%97%E4%BD%B3",
+    "cnTitle": "执行",
+    "twTitle": "執行"
+  },
+  "20906": {
+    "id": "20906",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%A1%80%E6%AC%B2-%E7%BD%97%E4%BD%B3",
+    "cnTitle": "血欲",
+    "twTitle": "血慾"
+  },
+  "20907": {
+    "id": "20907",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%AF%85%E5%92%92%E4%B9%8B%E9%92%89-%E7%BD%97%E4%BD%B3",
+    "cnTitle": "诅咒之钉",
+    "twTitle": "詛咒之釘"
+  },
+  "20908": {
+    "id": "20908",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%8C%87%E5%AE%9A%E5%AE%A1%E5%88%A4-%E7%BD%97%E4%BD%B3",
+    "cnTitle": "指定审判",
+    "twTitle": "指定審判"
+  },
+  "21001": {
+    "id": "21001",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%99%BA%E6%85%A7%E7%9A%84%E9%9D%92%E6%9E%9D",
+    "cnTitle": "智慧的青枝",
+    "twTitle": "智慧的青枝"
+  },
+  "21002": {
+    "id": "21002",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%BF%AB%E8%BF%91%E4%B9%8B%E6%97%A5-%E8%BE%9B%E5%85%8B%E8%8E%B1",
+    "cnTitle": "迫近之日",
+    "twTitle": "迫近之日"
+  },
+  "21003": {
+    "id": "21003",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%B8%80%E7%94%9F%E7%82%96%E8%8F%9C-%E8%BE%9B%E5%85%8B%E8%8E%B1",
+    "cnTitle": "一生炖菜",
+    "twTitle": "一生燉菜"
+  },
+  "21004": {
+    "id": "21004",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%8F%90%E7%81%AF-%E8%BE%9B%E5%85%8B%E8%8E%B1",
+    "cnTitle": "提灯",
+    "twTitle": "提燈"
+  },
+  "21005": {
+    "id": "21005",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/9%E7%AB%A02%E8%8A%82-%E8%BE%9B%E5%85%8B%E8%8E%B1",
+    "cnTitle": "9章2节",
+    "twTitle": "9章2節"
+  },
+  "21006": {
+    "id": "21006",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%BD%8E%E6%B3%A3-%E8%BE%9B%E5%85%8B%E8%8E%B1",
+    "cnTitle": "低泣",
+    "twTitle": "低泣"
+  },
+  "21007": {
+    "id": "21007",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%AF%85%E5%92%92%E4%B9%8B%E9%92%89-%E8%BE%9B%E5%85%8B%E8%8E%B1",
+    "cnTitle": "诅咒之钉",
+    "twTitle": "詛咒之釘"
+  },
+  "21008": {
+    "id": "21008",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%B1%A1%E8%A1%80%E6%B3%A3%E6%B3%AA-%E8%BE%9B%E5%85%8B%E8%8E%B1",
+    "cnTitle": "污血泣泪",
+    "twTitle": "汙血泣淚"
+  },
+  "21101": {
+    "id": "21101",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%87%B4%E6%99%BA%E6%85%A7%E4%B8%8E%E8%8B%A6%E9%9A%BE",
+    "cnTitle": "致智慧与苦难",
+    "twTitle": "致智慧與苦難"
+  },
+  "21102": {
+    "id": "21102",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E9%BB%91%E6%AA%80%E6%9E%9D%E5%B9%B2-%E5%A5%A5%E6%8F%90%E6%96%AF",
+    "cnTitle": "黑檀枝干",
+    "twTitle": "黑檀枝幹"
+  },
+  "21103": {
+    "id": "21103",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%A9%BA%E5%8D%B3%E6%98%AF%E8%89%B2-%E5%A5%A5%E6%8F%90%E6%96%AF",
+    "cnTitle": "空即是色",
+    "twTitle": "空即是色"
+  },
+  "21104": {
+    "id": "21104",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%8B%90%E9%9B%A8-%E5%A5%A5%E6%8F%90%E6%96%AF",
+    "cnTitle": "狐雨",
+    "twTitle": "狐雨"
+  },
+  "21105": {
+    "id": "21105",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%82%B2%E6%83%A8%E5%81%87%E6%97%A5-%E5%A5%A5%E6%8F%90%E6%96%AF",
+    "cnTitle": "悲惨假日",
+    "twTitle": "悲慘假日"
+  },
+  "21106": {
+    "id": "21106",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%8B%98%E6%9D%9F-%E5%A5%A5%E6%8F%90%E6%96%AF",
+    "cnTitle": "拘束",
+    "twTitle": "拘束"
+  },
+  "21107": {
+    "id": "21107",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%AC%A1%E5%85%83%E6%92%95%E8%A3%82%E8%80%85-%E5%A5%A5%E6%8F%90%E6%96%AF",
+    "cnTitle": "次元撕裂者",
+    "twTitle": "次元撕裂者"
+  },
+  "21108": {
+    "id": "21108",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E9%AD%94%E5%BC%B9-%E5%A5%A5%E6%8F%90%E6%96%AF",
+    "cnTitle": "魔弹",
+    "twTitle": "魔彈"
+  },
+  "21201": {
+    "id": "21201",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%9F%90%E4%B8%80%E6%97%A5%EF%BC%8C%E7%AA%81%E7%84%B6",
+    "cnTitle": "某一日，突然",
+    "twTitle": "某一日，突然"
+  },
+  "21202": {
+    "id": "21202",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E9%9A%9C%E7%9C%BC%E6%8A%8A%E6%88%8F-%E6%A0%BC%E9%87%8C%E9%AB%98%E5%B0%94",
+    "cnTitle": "障眼把戏",
+    "twTitle": "障眼把戲"
+  },
+  "21203": {
+    "id": "21203",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%8F%90%E7%81%AF-%E6%A0%BC%E9%87%8C%E9%AB%98%E5%B0%94",
+    "cnTitle": "提灯",
+    "twTitle": "提燈"
+  },
+  "21204": {
+    "id": "21204",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/AEDD-%E6%A0%BC%E9%87%8C%E9%AB%98%E5%B0%94",
+    "cnTitle": "AEDD",
+    "twTitle": "AEDD"
+  },
+  "21205": {
+    "id": "21205",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%8D%86%E6%A3%98%E8%8A%B1%E5%9B%AD-%E6%A0%BC%E9%87%8C%E9%AB%98%E5%B0%94",
+    "cnTitle": "荆棘花园",
+    "twTitle": "荊棘花園"
+  },
+  "21206": {
+    "id": "21206",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%BE%80%E6%98%94-%E6%A0%BC%E9%87%8C%E9%AB%98%E5%B0%94",
+    "cnTitle": "往昔",
+    "twTitle": "往昔"
+  },
+  "21207": {
+    "id": "21207",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%BA%84%E4%B8%A5%E5%93%80%E6%82%BC-%E6%A0%BC%E9%87%8C%E9%AB%98%E5%B0%94",
+    "cnTitle": "庄严哀悼",
+    "twTitle": "莊嚴哀悼"
+  },
+  "21208": {
+    "id": "21208",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%9C%A3%E8%AF%9E%E6%A2%A6%E9%AD%87-%E6%A0%BC%E9%87%8C%E9%AB%98%E5%B0%94",
+    "cnTitle": "圣诞梦魇",
+    "twTitle": "聖誕夢魘"
+  },
+  "20209": {
+    "id": "20209",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%8C%87%E4%BB%A4%EF%BC%9A%E7%86%94%E6%AF%81-%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+    "cnTitle": "指令：熔毁",
+    "twTitle": "指令：熔燬"
+  },
+  "20609": {
+    "id": "20609",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%AE%81%E4%BD%9C%E5%90%BE-%E9%B8%BF%E7%92%90",
+    "cnTitle": "宁作吾",
+    "twTitle": "寧作吾"
+  },
+  "20810": {
+    "id": "20810",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%B6%8C%E6%BD%AE%E6%82%B2%E6%AD%8C-%E4%BB%A5%E5%AE%9E%E7%8E%9B%E5%88%A9",
+    "cnTitle": "涌潮悲歌",
+    "twTitle": "湧潮悲歌"
+  },
+  "21209": {
+    "id": "21209",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%9C%AA%E7%85%A7%E8%80%80%E7%9A%84%E8%8D%A3%E5%85%89-%E6%A0%BC%E9%87%8C%E9%AB%98%E5%B0%94",
+    "cnTitle": "未照耀的荣光",
+    "twTitle": "未照耀的榮光"
+  }
+}
