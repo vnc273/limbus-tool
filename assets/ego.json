@@ -719,5 +719,19 @@
     "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%BF%81%E5%B1%85%E7%94%B3%E8%AF%B7-%E5%B8%8C%E6%96%AF%E5%85%8B%E5%88%A9%E5%A4%AB",
     "cnTitle": "迁居申请？",
     "twTitle": "遷居申請"
+  },
+  "20108": {
+    "id": "20108",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C-%E6%9D%8E%E7%AE%B1",
+    "cnTitle": "三千大世界",
+    "twTitle": "三千大世界"
+  },
+  "20409": {
+    "id": "20409",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C-%E8%89%AF%E7%A7%80",
+    "cnTitle": "三千大世界",
+    "twTitle": "三千大世界"
   }
 }
