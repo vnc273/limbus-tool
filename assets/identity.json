@@ -1139,5 +1139,27 @@
     "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7%E9%A3%9F%E6%8C%87:%E3%80%90%E7%BB%88%E7%AB%AF%E3%80%91",
     "cnTitle": "堂吉诃德食指代行者-绽放E.G.O::代行",
     "twTitle": "食指 \n代行者 - 綻放E.G.O::\nProcuration"
+  },
+  "10814": {
+    "id": "10814",
+    "rarity": 3,
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%BB%A5%E5%AE%9E%E7%8E%9B%E5%88%A9%E8%9C%98%E8%9B%9B%E5%B7%A2%E4%B8%AD%E6%8C%87%E5%AD%90%E8%BE%88",
+    "cnTitle": "以实玛利蜘蛛巢中指子辈",
+    "twTitle": "蜘蛛巢\n中指 子輩"
+  },
+
+  "11015": {
+    "id": "11015",
+    "rarity": 3,
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%BE%9B%E5%85%8B%E8%8E%B1%E8%9C%98%E8%9B%9B%E5%B7%A2%E5%B0%8F%E6%8C%87%E5%AD%90%E8%BE%88",
+    "cnTitle": "辛克莱蜘蛛巢小指子辈",
+    "twTitle": "蜘蛛巢\n小指 子辈"
+  },
+  "11214": {
+    "id": "11214",
+    "rarity": 3,
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%A0%BC%E9%87%8C%E9%AB%98%E5%B0%94%E8%84%91%E5%8F%B6%E5%85%AC%E5%8F%B8E.G.O:%E7%9B%AE%E7%81%AF",
+    "cnTitle": "格里高尔脑叶公司E.G.O:目灯",
+    "twTitle": "腦葉公司\nE.G.O::\n目燈"
   }
 }
