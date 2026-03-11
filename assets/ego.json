@@ -733,5 +733,12 @@
     "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C-%E8%89%AF%E7%A7%80",
     "cnTitle": "三千大世界",
     "twTitle": "三千大世界"
+  },
+  "21009": {
+    "id": "21009",
+    "riskLevel": "HE",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E5%92%8C%E5%A3%B0-%E8%BE%9B%E5%85%8B%E8%8E%B1",
+    "cnTitle": "和声",
+    "twTitle": "和聲"
   }
 }
