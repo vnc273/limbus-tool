@@ -1203,5 +1203,19 @@
     "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E9%B8%BF%E7%92%90%E8%9C%98%E8%9B%9B%E5%B7%A2%E7%8E%AF%E6%8C%87%E7%88%B6%E8%BE%88",
     "cnTitle": "鸿璐蜘蛛巢环指父辈",
     "twTitle": "蜘蛛巢\n環指 父辈"
+  },
+  "10515": {
+    "id": "10515",
+    "rarity": 3,
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E9%BB%98%E5%B0%94%E7%B4%A2%E7%8E%AF%E6%8C%87%E9%87%8E%E5%85%BD%E6%B4%BE%E5%AD%A6%E5%BE%92",
+    "cnTitle": "默尔索环指野兽派学徒",
+    "twTitle": "環指 野獸派\n學徒"
+  },
+  "10915": {
+    "id": "10915",
+    "rarity": 3,
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BD%97%E4%BD%B3%E7%8E%AF%E6%8C%87%E9%87%8E%E5%85%BD%E6%B4%BE%E8%AE%B2%E8%A7%A3%E5%91%98",
+    "cnTitle": "罗佳环指野兽派讲解员",
+    "twTitle": "環指 野獸派\n講解員"
   }
 }
