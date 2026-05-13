@@ -747,5 +747,12 @@
     "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BA%A2%E8%89%B3%E7%85%9E-%E6%B5%AE%E5%A3%AB%E5%BE%B7",
     "cnTitle": "红艳煞",
     "twTitle": "紅艷煞"
+  },
+  "20909": {
+    "id": "20909",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%AD%A5%E5%85%A5%E6%99%9A%E9%9C%9E-%E7%BD%97%E4%BD%B3",
+    "cnTitle": "步入晚霞",
+    "twTitle": "步入晚霞"
   }
 }
