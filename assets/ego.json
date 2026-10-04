@@ -9,8 +9,8 @@
   "20102": {
     "id": "20102",
     "riskLevel": "TETH",
-    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BB%88%E6%9C%AB%E7%81%AB%E6%9F%B4%E4%B9%8B%E5%85%89-%E6%9D%8E%E7%AE%B1",
-    "cnTitle": "终末火柴之光",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%AC%AC%E5%9B%9B%E6%A0%B9%E7%81%AB%E6%9F%B4%E4%B9%8B%E7%84%B0-%E6%9D%8E%E7%AE%B1",
+    "cnTitle": "第四根火柴之焰",
     "twTitle": "第四根火柴"
   },
   "20103": {
@@ -178,7 +178,7 @@
     "id": "20402",
     "riskLevel": "HE",
     "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BB%88%E6%9C%AB%E7%81%AB%E6%9F%B4%E4%B9%8B%E5%85%89-%E8%89%AF%E7%A7%80",
-    "cnTitle": "终末火柴之光",
+    "cnTitle": "第四根火柴之焰",
     "twTitle": "第四根火柴"
   },
   "20403": {
@@ -465,7 +465,7 @@
     "id": "20902",
     "riskLevel": "HE",
     "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%BB%88%E6%9C%AB%E7%81%AB%E6%9F%B4%E4%B9%8B%E5%85%89-%E7%BD%97%E4%BD%B3",
-    "cnTitle": "终末火柴之光",
+    "cnTitle": "第四根火柴之焰",
     "twTitle": "第四根火柴"
   },
   "20903": {
@@ -782,5 +782,33 @@
     "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E8%BF%81%E5%B1%85%E7%94%B3%E8%AF%B7-%E6%A0%BC%E9%87%8C%E9%AB%98%E5%B0%94",
     "cnTitle": "迁居申请",
     "twTitle": "遷居申請"
+  },
+  "20211": {
+    "id": "20211",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%A9%BA%E6%B4%9E-%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+    "cnTitle": "空洞",
+    "twTitle": "空洞"
+  },
+  "20510": {
+    "id": "20510",
+    "riskLevel": "WAW",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E7%A9%BA%E6%B4%9E-%E9%BB%98%E5%B0%94%E7%B4%A2",
+    "cnTitle": "空洞",
+    "twTitle": "空洞"
+  },
+  "20610": {
+    "id": "20610",
+    "riskLevel": "ZAYIN",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E6%8B%92%E7%BB%9D%E5%AE%A3%E5%91%8A-%E9%B8%BF%E7%92%90",
+    "cnTitle": "拒绝宣告",
+    "twTitle": "拒絕宣告"
+  },
+  "20910": {
+    "id": "20910",
+    "riskLevel": "TETH",
+    "cnWiki": "https://limbuscompany.huijiwiki.com/wiki/%E9%95%9C%E5%8F%8D%E5%B0%84%E8%A7%A6%E8%A7%89-%E7%BD%97%E4%BD%B3",
+    "cnTitle": "镜反射触觉",
+    "twTitle": "鏡反射觸覺"
   }
 }
