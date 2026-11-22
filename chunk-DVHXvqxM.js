@@ -1,0 +1,1 @@
+function a(){return!!navigator.clipboard?.write&&typeof ClipboardItem<`u`}async function c(e){let n=async()=>navigator.clipboard.write([new ClipboardItem({"image/png":e})]);await Promise.all([e,n()])}function i(e,n,r){let o=URL.createObjectURL(n);setTimeout(()=>URL.revokeObjectURL(o),4e4);let t=e.createElement(`a`);t.href=o,t.download=r,t.click()}export{c as n,i as r,a as t};

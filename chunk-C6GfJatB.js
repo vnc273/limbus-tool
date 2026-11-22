@@ -1,0 +1,1 @@
+function t(r){return r===8e3?`collaboration`:r>=9100&&r<=9199?`walpurgis`:String(r)}export{t};
